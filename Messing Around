@@ -1,4 +1,0 @@
-name=(input "whats your name? ")
-age=int(input( " So how old were you again? "))
-print("name:", name)
-print("age:", age)
